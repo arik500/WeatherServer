@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\arikg\\source\\repos\\WeatherAPI_DebugVersion\\WeatherAPI_DebugVersion\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\arikg\\source\\repos\\WeatherAPI_DebugVersion\\WeatherAPI_DebugVersion\\wwwroot\\html\\weather.html",
+      "PackagePath": "staticwebassets\\html\\weather.html"
+    },
+    {
+      "Id": "C:\\Users\\arikg\\source\\repos\\WeatherAPI_DebugVersion\\WeatherAPI_DebugVersion\\wwwroot\\img\\background.jpg",
+      "PackagePath": "staticwebassets\\img\\background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arikg\\source\\repos\\WeatherAPI_DebugVersion\\WeatherAPI_DebugVersion\\wwwroot\\img\\cloud-side-painted-1.jpg",
+      "PackagePath": "staticwebassets\\img\\cloud-side-painted-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arikg\\source\\repos\\WeatherAPI_DebugVersion\\WeatherAPI_DebugVersion\\wwwroot\\img\\cloud.png",
+      "PackagePath": "staticwebassets\\img\\cloud.png"
+    },
+    {
+      "Id": "C:\\Users\\arikg\\source\\repos\\WeatherAPI_DebugVersion\\WeatherAPI_DebugVersion\\wwwroot\\img\\cloudIcon.svg",
+      "PackagePath": "staticwebassets\\img\\cloudIcon.svg"
+    },
+    {
+      "Id": "C:\\Users\\arikg\\source\\repos\\WeatherAPI_DebugVersion\\WeatherAPI_DebugVersion\\wwwroot\\img\\pressure.png",
+      "PackagePath": "staticwebassets\\img\\pressure.png"
+    },
+    {
+      "Id": "C:\\Users\\arikg\\source\\repos\\WeatherAPI_DebugVersion\\WeatherAPI_DebugVersion\\wwwroot\\img\\snow.png",
+      "PackagePath": "staticwebassets\\img\\snow.png"
+    },
+    {
+      "Id": "C:\\Users\\arikg\\source\\repos\\WeatherAPI_DebugVersion\\WeatherAPI_DebugVersion\\wwwroot\\img\\stormy-clouds-1.jpg",
+      "PackagePath": "staticwebassets\\img\\stormy-clouds-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arikg\\source\\repos\\WeatherAPI_DebugVersion\\WeatherAPI_DebugVersion\\wwwroot\\img\\water.png",
+      "PackagePath": "staticwebassets\\img\\water.png"
+    },
+    {
+      "Id": "C:\\Users\\arikg\\source\\repos\\WeatherAPI_DebugVersion\\WeatherAPI_DebugVersion\\wwwroot\\img\\white-cloud.jpg",
+      "PackagePath": "staticwebassets\\img\\white-cloud.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arikg\\source\\repos\\WeatherAPI_DebugVersion\\WeatherAPI_DebugVersion\\wwwroot\\js\\getWeather.js",
+      "PackagePath": "staticwebassets\\js\\getWeather.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WeatherAPI_DebugVersion.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WeatherAPI_DebugVersion.props",
+      "PackagePath": "build\\WeatherAPI_DebugVersion.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WeatherAPI_DebugVersion.props",
+      "PackagePath": "buildMultiTargeting\\WeatherAPI_DebugVersion.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WeatherAPI_DebugVersion.props",
+      "PackagePath": "buildTransitive\\WeatherAPI_DebugVersion.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

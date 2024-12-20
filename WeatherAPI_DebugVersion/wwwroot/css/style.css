@@ -1,0 +1,106 @@
+﻿header{
+    background-color: aliceblue;
+    border: 2px solid #000000;
+    border-radius: 20px;
+    width: 100%;
+}
+nav{
+    color: black;
+    font-size: 30px;
+    font-family: monospace;
+}
+.nav-element{
+    margin-right: 30px;
+    display: inline;
+}
+.nav-ul{
+    list-style-type:none;
+}
+.weather-for-hours{
+    margin-top: 12.5px;
+    margin-inline: auto;
+}
+.hours-element{
+    padding-top: 0px;
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 70px;
+    height: 150px;
+}
+.hours-element-temp{
+    margin-top: 35px;
+    font-size: 30px;
+    text-align: center;
+}
+.hours-element-time{
+    margin-top: -50px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+body{
+    background-image: url("../img/cloud-side-painted-1.jpg");
+    background-size: 1000px;
+}
+.extra-conteiner{
+    width: 1000px;
+    height: 200px;
+    margin-inline: auto;
+    margin-top: 50px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 25px;
+}
+.main-conteiner{
+    margin-top: 150px;
+    font-family:monospace;
+    background-image: url("../img/white-cloud.jpg");
+    background-size: cover;
+    padding-left: 15px;
+    margin-inline: auto;
+    width: 900px;
+    height: 450px;
+    border: 2px solid black;
+    border-radius: 25px;
+}
+.city{
+    text-align: left;
+    font-size: 30px;
+}
+.water{
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    background-image: url("../img/water.png");
+    background-position: center;
+    background-size: 25px;
+}
+.cloudIcon{
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    background-image: url("../img/cloud.png");
+    background-position: center;
+    background-size: 60px;
+}
+.pressure{
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    background-image: url("../img/pressure.png");
+    background-position: center;
+    background-size: 25px;
+}
+.date{
+    margin-top: -5px;
+    font-size: 22px;
+}
+.temp{
+    font-size: 80px;
+}
+.inward-data{
+    margin-top: 20%;
+    font-size: 30px;
+}
